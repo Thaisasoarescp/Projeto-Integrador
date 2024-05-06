@@ -1,0 +1,27 @@
+header{
+   background-color: black;
+   align-items: baseline;
+   display: flex;
+   justify-content: space-between;
+   align-items: flex-start;
+   align-content: center;
+   
+}
+
+.titulo{
+    color:  #A9CF46;
+    text-decoration: solid;
+    margin-right: 790px;
+    margin-left: 70px;
+}
+
+.um{
+    display: flex;
+    align-items: baseline;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+
+
